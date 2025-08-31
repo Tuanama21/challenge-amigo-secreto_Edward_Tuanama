@@ -1,13 +1,15 @@
 <h1 align="center"> 🎯 Amigo Secreto - Sorteo Aleatorio </h1>
 
 ## 📚 Índice
-*[Descripción del proyecto](#descripción-del-proyecto)
-*[Estado del proyecto](#Estado-del-proyecto)
-*[Demostración](#Demostración)
-*[Acceso al proyecto](#acceso-proyecto)
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
-*[Funcionalidades](#Funcionalidades)
-*[Desarrolladores](#Desarrolladores)
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+  <a href="#-descripción-del-proyecto">📝 Descripción</a> •
+  <a href="#-estado-del-proyecto">🚀 Estado</a> •
+  <a href="#-demostración">🎥 Demostración</a> •
+  <a href="#-acceso-al-proyecto">🔗 Acceso</a> •
+  <a href="#-tecnologías-utilizadas">💻 Tecnologías</a> •
+  <a href="#-funcionalidades">🎯 Funcionalidades</a> •
+  <a href="#-desarrolladores">👥 Desarrolladores</a>
+</div>
 
 ### 📝 Descripción del Proyecto
 Amigo Secreto es una aplicación web interactiva que te permite organizar sorteos de manera fácil y divertida. La aplicación te permite agregar nombres de participantes, validar y formatear las entradas, y realizar un sorteo aleatorio con animaciones visuales atractivas.
