@@ -7,7 +7,6 @@ Demostración
 Acceso al Proyecto
 Tecnologías Utilizadas
 Funcionalidades
-Instalación y Uso
 Desarrolladores
 
 📝 Descripción del Proyecto
@@ -43,28 +42,6 @@ GitHub Pages: despliegue automático.
 ✅ Soporte para la tecla Enter para agregar nombres rápidamente.
 ✅ Mensajes de feedback para el usuario.
 ✅ Botones inteligentes que se habilitan/deshabilitan automáticamente.
-
-📦 Instalación y Uso
-Opción 1: Usar la versión en línea
-Visita https://tu-usuario.github.io/amigo-secreto
-
-¡Comienza a usar la aplicación inmediatamente!
-
-Opción 2: Ejecutar localmente
-Clona el repositorio:
-
-Bash
-
-git clone https://github.com/tu-usuario/amigo-secreto.git
-Abre el archivo index.html en tu navegador o utiliza un servidor local:
-
-Bash
-
-# Con Python
-python -m http.server 8000
-# Con Node.js (http-server)
-npx http-server
-Abre tu navegador y ve a http://localhost:8000
 
 👥 Desarrolladores
 Este proyecto fue desarrollado por:
