@@ -1,13 +1,9 @@
 <h1 align="center"> 🎯 Amigo Secreto - Sorteo Aleatorio </h1>
-![Javascript]https://img.shields.io/badge/JavaScript-ES6+-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/Licencia-MIT-green?style=for-the-badge
 
 ## 📚 Índice
-*[Descripción del proyecto](#descripción-del-proyecto)/
-*[Estado del proyecto](#Estado-del-proyecto)/
-*[Demostración](#Demostración)/
+*[Descripción del proyecto](#descripción-del-proyecto)
+*[Estado del proyecto](#Estado-del-proyecto)
+*[Demostración](#Demostración)
 *[Acceso al proyecto](#acceso-proyecto)
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
 *[Funcionalidades](#Funcionalidades)
@@ -36,19 +32,23 @@ Git: control de versiones.
 GitHub Pages: despliegue automático.
 
 ### 🎯 Funcionalidades
-✅ Agregar nombres de participantes con validación.
-✅ Prevención de duplicados.
-✅ Formato automático de nombres (capitalización).
-✅ Interfaz responsiva para todos los dispositivos.
-✅ Animación durante el sorteo para mayor emoción.
-✅ Reinicio completo del juego.
-✅ Validación en tiempo real de entrada de texto.
-✅ Soporte para la tecla Enter para agregar nombres rápidamente.
-✅ Mensajes de feedback para el usuario.
-✅ Botones inteligentes que se habilitan/deshabilitan automáticamente.
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 10px;">
+<div>✅ Agregar nombres de participantes con validación</div>
+<div>✅ Prevención de duplicados</div>
+<div>✅ Formato automático de nombres (capitalización)</div>
+<div>✅ Interfaz responsiva para todos los dispositivos</div>
+<div>✅ Animación durante el sorteo para mayor emoción</div>
+<div>✅ Reinicio completo del juego</div>
+<div>✅ Validación en tiempo real de entrada de texto</div>
+<div>✅ Soporte para la tecla Enter para agregar nombres rápidamente</div>
+<div>✅ Mensajes de feedback para el usuario</div>
+<div>✅ Botones inteligentes que se habilitan/deshabilitan automáticamente</div>
+</div>
 
 ### 👥 Desarrolladores
 Este proyecto fue desarrollado por:
+
+## Autores
 
 [Tuanama21](https://github.com/Tuanama21) - GitHub
 
