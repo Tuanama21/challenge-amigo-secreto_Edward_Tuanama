@@ -33,7 +33,45 @@ Interfaz Responsiva: vista de la aplicación en diferentes dispositivos.
 El repositorio del proyecto está disponible en: [https://github.com/Tuanama21/amigo-secreto](https://github.com/Tuanama21/challenge-amigo-secreto_Edward_Tuanama.git)
 
 ### 💻 Tecnologías Utilizadas
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;"><div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"> <br> <strong>HTML5</strong> <br> <small>Estructura semántica del proyecto</small> </div><div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"> <br> <strong>CSS3</strong> <br> <small>Estilos y diseño responsivo</small> </div><div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"> <br> <strong>JavaScript ES6+</strong> <br> <small>Lógica de programación y funcionalidades</small> </div><div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"> <br> <strong>Git</strong> <br> <small>Control de versiones</small> </div><div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"> <br> <strong>GitHub Pages</strong> <br> <small>Despliegue automático</small> </div></div>
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40">
+<br>
+<strong>HTML5</strong>
+<br>
+<small>Estructura semántica</small>
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40">
+<br>
+<strong>CSS3</strong>
+<br>
+<small>Diseño responsivo</small>
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40">
+<br>
+<strong>JavaScript</strong>
+<br>
+<small>Lógica y funcionalidades</small>
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40">
+<br>
+<strong>Git</strong>
+<br>
+<small>Control de versiones</small>
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40">
+<br>
+<strong>GitHub Pages</strong>
+<br>
+<small>Despliegue automático</small>
+</td>
+</tr>
+</table>
 
 ### 🎯 Funcionalidades
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 10px;">
