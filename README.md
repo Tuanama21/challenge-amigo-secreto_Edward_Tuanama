@@ -1,4 +1,4 @@
-🎯 Amigo Secreto - Sorteo Aleatorio
+#🎯 Amigo Secreto - Sorteo Aleatorio
 📚 Índice
 Descripción del Proyecto
 
