@@ -23,7 +23,7 @@ Realizar Sorteo: resultado final.
 Interfaz Responsiva: vista de la aplicación en diferentes dispositivos.
 
 🔗 Acceso al Proyecto
-El repositorio del proyecto está disponible en: [https://github.com/tu-usuario/amigo-secreto](https://github.com/Tuanama21/challenge-amigo-secreto_Edward_Tuanama.git)
+El repositorio del proyecto está disponible en: [https://github.com/Tuanama21/amigo-secreto](https://github.com/Tuanama21/challenge-amigo-secreto_Edward_Tuanama.git)
 
 💻 Tecnologías Utilizadas
 HTML5: estructura semántica del proyecto.
@@ -74,5 +74,5 @@ Este proyecto fue desarrollado por:
 ¡Si te gustó este proyecto, no olvides dejar una estrella ⭐ en el repositorio!
 
 <div align="center">
-Hecho con ❤️ por <a href="[https://github.com/tu-usuario](https://github.com/Tuanama21)">Tu Nombre</a>
+Hecho con ❤️ por <a href="[https://github.com/tu-usuario](https://github.com/Tuanama21)">Edward Tuanama</a>
 </div>
