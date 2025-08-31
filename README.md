@@ -1,14 +1,20 @@
 <h1 align="center"> 🎯 Amigo Secreto - Sorteo Aleatorio </h1>
 
 ## 📚 Índice
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-  <a href="#-descripción-del-proyecto">📝 Descripción</a> •
-  <a href="#-estado-del-proyecto">🚀 Estado</a> •
-  <a href="#-demostración">🎥 Demostración</a> •
-  <a href="#-acceso-al-proyecto">🔗 Acceso</a> •
-  <a href="#-tecnologías-utilizadas">💻 Tecnologías</a> •
-  <a href="#-funcionalidades">🎯 Funcionalidades</a> •
-  <a href="#-desarrolladores">👥 Desarrolladores</a>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 15px 0;">
+  <a href="#-descripción-del-proyecto" style="text-decoration: none;">📝 Descripción</a>
+  <span>•</span>
+  <a href="#-estado-del-proyecto" style="text-decoration: none;">🚀 Estado</a>
+  <span>•</span>
+  <a href="#-demostración" style="text-decoration: none;">🎥 Demostración</a>
+  <span>•</span>
+  <a href="#-acceso-al-proyecto" style="text-decoration: none;">🔗 Acceso</a>
+  <span>•</span>
+  <a href="#-tecnologías-utilizadas" style="text-decoration: none;">💻 Tecnologías</a>
+  <span>•</span>
+  <a href="#-funcionalidades" style="text-decoration: none;">🎯 Funcionalidades</a>
+  <span>•</span>
+  <a href="#-desarrolladores" style="text-decoration: none;">👥 Desarrolladores</a>
 </div>
 
 ### 📝 Descripción del Proyecto
