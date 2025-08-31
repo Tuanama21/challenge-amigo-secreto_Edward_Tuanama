@@ -5,9 +5,9 @@ https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor
 https://img.shields.io/badge/Licencia-MIT-green?style=for-the-badge
 
 ## 📚 Índice
-*[Descripción del proyecto](#descripción-del-proyecto)
-*[Estado del proyecto](#Estado-del-proyecto)
-*[Demostración](#Demostración)
+*[Descripción del proyecto](#descripción-del-proyecto)/
+*[Estado del proyecto](#Estado-del-proyecto)/
+*[Demostración](#Demostración)/
 *[Acceso al proyecto](#acceso-proyecto)
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
 *[Funcionalidades](#Funcionalidades)
