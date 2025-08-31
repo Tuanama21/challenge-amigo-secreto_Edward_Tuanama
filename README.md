@@ -1,7 +1,7 @@
 <h1 align="center"> 🎯 Amigo Secreto - Sorteo Aleatorio </h1>
 
 ## 📚 Índice
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 15px 0;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 10px;">
   <a href="#-descripción-del-proyecto" style="text-decoration: none;">📝 Descripción</a>
   <span>•</span>
   <a href="#-estado-del-proyecto" style="text-decoration: none;">🚀 Estado</a>
