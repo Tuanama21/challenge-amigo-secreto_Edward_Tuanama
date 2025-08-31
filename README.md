@@ -106,5 +106,5 @@ Este proyecto fue desarrollado por:
 ¡Si te gustó este proyecto, no olvides dejar una estrella ⭐ en el repositorio!
 
 <div align="center">
-Hecho con ❤️ por <a href="[https://github.com/tu-usuario](https://github.com/Tuanama21)">Edward Tuanama Gracias a Alura Latam | Oracle </a>
+Hecho con ❤️ por <a href="[https://github.com/tu-usuario](https://github.com/Tuanama21)">Edward Tuanama Gracias a #AluraLatam y #oraclenexteducation! </a>
 </div>
